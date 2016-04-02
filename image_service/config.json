@@ -1,0 +1,9 @@
+{
+  "storage-config":{
+    "host":"localhost",
+    "port":27017,
+    "databases":[
+      "images",
+    ]
+  }
+}
